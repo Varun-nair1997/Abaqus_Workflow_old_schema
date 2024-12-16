@@ -1,0 +1,66 @@
+{
+    "$schema": "https://github.com/Ronakshoghi/MetadataSchema/blob/main/microstructure_sensitive_mechanical_metadata_schema.json",
+    "identifier": "c779c1a4",
+    "title": "Stress-Strain Analysis of Polycrystalline Copper with Goss Texture Using Crystal Plasticity FEM",
+    "creator": [
+        "Shoghi, Ronak"
+    ],
+    "creator_ORCID": [
+        "0000-0002-1451-2715"
+    ],
+    "creator_affiliation": [
+        "Ruhr University Bochum"
+    ],
+    "creator_institute": [
+        "Interdisciplinary Centre for Advanced Materials Simulation (ICAMS)"
+    ],
+    "creator_group": [
+        "Micromechanical and Macroscopic Modelling"
+    ],
+    "contributor": [
+        "Hartmaier, Alexander"
+    ],
+    "contributor_ORCID": [
+        "0000-0002-3710-1169"
+    ],
+    "contributor_affiliation": [
+        "Ruhr University Bochum"
+    ],
+    "contributor_institute": [
+        "Interdisciplinary Centre for Advanced Materials Simulation (ICAMS)"
+    ],
+    "contributor_group": [
+        "Micromechanical and Macroscopic Modelling"
+    ],
+    "shared_with": [
+        {
+            "access_type": "c"
+        },
+        {
+            "access_type": "all"
+        }
+    ],
+    "description": "Stress-strain analysis of single-phase polycrystalline copper with a Goss texture using a cubic representative volume element (RVE) and periodic boundary conditions, performed with Abaqus through the crystal plasticity finite element method.",
+    "rights": "Creative Commons Attribution 4.0 International",
+    "rights_holder": [
+        "Shoghi, Ronak"
+    ],
+    "funder_name": "DFG",
+    "fund_identifier": "190 389 738\u2014TRR 103",
+    "publisher": "Zenodo",
+    "relation": [
+        "10.1088/2632-2153/ad379e"
+    ],
+    "keywords": [
+        "CPFEM",
+        "Goss",
+        "Multi-axial loading"
+    ],
+    "software": "Abaqus CAE",
+    "software_version": "6.14",
+    "system": "Linux",
+    "system_version": "Ubuntu 16.04",
+    "processor_specifications": "Intel64 Family 6 Model 142 Stepping 10",
+    "input_path": "../DataBase/Keys/592bb0abb1/inputs",
+    "results_path": "../DataBase/Keys/592bb0abb1/results"
+}

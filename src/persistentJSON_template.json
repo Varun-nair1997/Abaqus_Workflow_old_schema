@@ -1,0 +1,90 @@
+{
+    "$schema": "https://github.com/Ronakshoghi/MetadataSchema/blob/main/microstructure_sensitive_mechanical_metadata_schema.json",
+    "identifier": "c779c1a4",
+    "title": "Stress-Strain Analysis of Polycrystalline Copper with Goss Texture Using Crystal Plasticity FEM",
+    "creator": [
+        "enter",
+        "creators",
+        "here"
+    ],
+    "creator_ORCID": [
+        "enter",
+        "creator ORCHID IDs",
+        "here"
+    ],
+    "creator_affiliation": [
+        "enter",
+        "creator affiliation",
+        "here"
+    ],
+    "creator_institute": [
+        "enter",
+        "creator institutes",
+        "here"
+    ],
+    "creator_group": [
+        "enter",
+        "creator group",
+        "here"
+    ],
+    "contributor": [
+        "enter",
+        "contributor",
+        "here"
+    ],
+    "contributor_ORCID": [
+        "enter",
+        "contributor ORCHID IDs",
+        "here"
+    ],
+    "contributor_affiliation": [
+        "enter",
+        "contributor affililation",
+        "here"
+    ],
+    "contributor_institute": [
+        "enter",
+        "contributor institutes",
+        "here"
+    ],
+    "contributor_group": [
+        "enter",
+        "contributor groups",
+        "here"
+    ],
+    "shared_with": [
+        {
+            "access_type": "<enter access type here>"
+        },
+        {
+            "access_type": "<enter access type here>"
+        }
+    ],
+    "description": "<enter description here>",
+    "rights": "<enter rights information here>",
+    "rights_holder": [
+        "enter",
+        "rights holder information",
+        "here"
+    ],
+    "funder_name": "<enter funder name here>",
+    "fund_identifier": "<enter fund identifier here>",
+    "publisher": "<enter publisher here>",
+    "relation": [
+        "enter",
+        "relations",
+        "here"
+    ],
+    "keywords": [
+        "enter",
+        "keywords",
+        "here"
+    ],
+    "software": "<enter software name here>Abaqus CAE",
+    "software_version": "<enter software_version here>6.14",
+    "system": "<enter system here> Linux",
+    "system_version": "<enter system_version here> Ubuntu 16.04",
+    "processor_specifications": "<enter processor_specifications here> Intel64 Family 6 Model 142 Stepping 10",
+    "input_path": "<enter input filepath herer>",
+    "results_path": "<enter results path here>"
+}
